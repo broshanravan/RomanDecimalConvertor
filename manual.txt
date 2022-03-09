@@ -1,0 +1,28 @@
+<center><h1>User Manual</h1></center>
+
+This application is designed and implemented to convert integer to Roman number and visa versa.</br>
+This is an embedded application to be accessed via a provided  API by other applications.</br>
+However, to test the functionality, applications like PostMan can be used.</br>
+It is also possible to call the relevant URLs mentioned below using an internet IDE such ad Google Chrome or MS I.E </br>
+Use the following links to get different operation of the application running. </br>
+As it can be observed some of these links need additional attributes in order to be able to perform their dedicated tasks</br>
+
+To convert from Roman to decimal:"</br>
+Link: /romanNumberIn</br>
+Attribute: romanNumberIn</br>
+</br>
+
+To convert from Decimal to Roman:</br>
+Link: "decimalNumIn"</br>
+Attribute: decimalNumberIn</br>
+</br>
+
+To get Information on how the application is use the following link:</br>
+“/info”
+</br></br>
+
+To get Information about the application health status the following link::</br>
+“/health”
+</br></br>
+
+
